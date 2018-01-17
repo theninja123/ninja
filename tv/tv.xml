@@ -1,0 +1,96 @@
+
+<dir> 
+      <title>Action TV Shows</title>  
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/action-tv/items/</trakt>
+</dir>
+
+<dir>                               
+      <title>British Comedy Shows</title>                                
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/british-comedy/items/</trakt>
+</dir>
+
+<dir>                         
+      <title>Car TV Shows</title>                          
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/car-shows/items/</trakt>
+</dir>
+
+<dir>                   
+      <title>Classic British Comedy TV Shows</title>                    
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/classic-british-comedy/items/</trakt>
+</dir>
+
+<dir>                         
+      <title>Classic American Comedy TV Shows</title>                          
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/classic-american-comedy/items/</trakt>
+</dir>
+
+<dir>                               
+      <title>Comedy and Cartoon TV Shows</title>                                
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/comedy-and-cartoon-tv/items/</trakt>
+</dir>
+
+<dir>       
+      <title>Drama TV Shows</title>        
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/drama-tv/items/</trakt>
+</dir>
+
+<dir>             
+      <title>Documentary TV Shows</title>              
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/documentary-tv/items/</trakt>
+</dir>
+
+<dir>                   
+      <title>Fantasy TV Shows</title>                    
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/fantasy-tv/items/</trakt>
+</dir>
+
+<dir>                   
+      <title>Reality TV Shows</title>                    
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/reality-tv/items/</trakt>
+</dir>
+
+<dir>             
+      <title>True Crime TV Shows</title>              
+      <trakt>https://api.trakt.tv/users/coldkeys/lists/true-crime-shows/items/</trakt>
+</dir>
+
+<dir>
+      <title>TV Collection</title>
+      <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+</dir>
+
+<dir>
+      <title>Damo Shows</title>
+      <trakt>https://api.trakt.tv/users/tilliferret/lists/shows-for-damo/items/</trakt>
+</dir>
+
+<dir>
+  <title>Trending Shows</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+<dir>
+  <title>Popular Shows</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+</dir>
+
+<dir>
+  <title>Tv Shows For the ladies</title>
+  <trakt>https://api.trakt.tv/users/droidboy16/lists/female-shows/items</trakt>
+</dir>
+
+<dir>
+ <title>Genre</title>
+ <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/genretv.xml</link>
+</dir>
+
+<dir>
+ <title>UK Sitcoms</title>
+ <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/UK%20Sitcom.xml</link>
+</dir>
+
+<dir>
+<title>Netflix Origionals</title>
+<tmdb>list/39548</tmdb>
+</dir>
+

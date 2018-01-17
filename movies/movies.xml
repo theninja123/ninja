@@ -1,0 +1,87 @@
+
+<dir>
+  <title>Boxsets</title>
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/boxsets.xml</link>
+</dir>
+
+<dir>
+  <title>Kids Boxsets</title>
+  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/kids_boxset.xml</link>
+</dir>
+
+<dir>
+  <title>Trending Movies</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
+
+<dir>
+ <title>Genre</title>
+ <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/genre.xml</link>
+</dir>  
+
+<dir>
+ <title>Horror Films</title>
+ <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/horror%20films.xml</link>
+</dir> 
+
+<dir>
+  <title>Popular Movies</title>
+  <trakt>https://api.trakt.tv/movies/popular</trakt>
+</dir>
+
+<dir>
+  <title>Movie Watchlist</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+</dir>
+
+<dir>
+  <title>Movie Collection</title>
+  <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+</dir>
+
+<dir>
+  <title>2018 Oscars</title>
+  <trakt>https://trakt.tv/users/jcbwoldseth/lists/oscar-race-2018/items/</trakt>
+</dir>
+
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>movies/popular</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+  <title>Search TMDB</title>
+  <tmdb>search</tmdb>
+</dir>
+
+
+<dir>
+  <title>TMDB Action Movies</title>
+  <tmdb>genre/movies/28</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Star Wars Collection</title>
+  <tmdb>collection/10</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Star Trek Collection</title>
+  <tmdb>collection/151</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Star Trek New Gen Collection</title>
+  <tmdb>collection/115570</tmdb>
+</dir>
+

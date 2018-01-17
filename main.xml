@@ -1,6 +1,6 @@
 <xml>
   <dir>
-    <title>Formats</title>
+    <title></title>
     <link>file://formats/main.xml</link>
   </dir>
 
@@ -8,4 +8,15 @@
     <title>Shared Lists</title>
     <link>file://shared lists/main.xml</link>
   </dir>
+  
+  <dir>    
+    <title>Formats</title>    
+    <link>file://formats/main.xml</link>  
+  </dir>
+  
+  <dir>    
+    <title>Shared Lists</title>   
+    <link>file://shared lists/main.xml</link> 
+  </dir>
+  
 </xml>

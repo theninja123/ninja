@@ -36,6 +36,40 @@
   <fantart></fantart>
 </dir>
 
+<dir>  
+  <title>BBC One</title>
+  <tmdb>network/shows/4</tmdb>  
+  <thumbnail></thumbnail>  
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>BBC Two</title>  
+  <tmdb>network/shows/332</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>  
+  <title>ITV</title>
+  <tmdb>network/shows/140</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Channel 4</title>
+  <tmdb>network/shows/26</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Channel 5</title>
+  <tmdb>network/shows/99</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
 
 <dir>
   <title>Bravo</title>
@@ -118,6 +152,20 @@
   <title>DIY Network</title>
   <tmdb>network/shows/625</tmdb>
   <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>E!</title>
+  <tmdb>network/shows/76</tmdb>
+  <thumbnail>https://i.imgur.com/irZBsHc.png</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Freeform</title>
+  <tmdb>network/shows/</tmdb>
+  <thumbnail>https://i.imgur.com/pdozOX9.png</thumbnail>
   <fantart></fantart>
 </dir>
 
@@ -268,6 +316,20 @@
 </dir>
 
 <dir>
+  <title>Sky</title>
+  <tmdb>network/shows/421</tmdb>
+  <thumbnail>https://i.imgur.com/G8KkWI3.png</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Sky1</title>
+  <tmdb>network/shows/214</tmdb>
+  <thumbnail>https://i.imgur.com/ED94qm3.png</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
   <title>Spike</title>
   <tmdb>network/shows/55</tmdb>
   <thumbnail></thumbnail>
@@ -344,6 +406,47 @@
   <fantart></fantart>
 </dir>
 
+<dir>
+  <title>VH1</title>
+  <tmdb>network/shows/158</tmdb>
+  <thumbnail>https://i.imgur.com/5vqnazN.png</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Viceland</title>
+  <tmdb>network/shows/1339</tmdb>
+  <thumbnail>https://i.imgur.com/2jg6PSn.png</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>The WB</title>
+  <tmdb>network/shows/21</tmdb>
+  <thumbnail>https://i.imgur.com/Jd8Mp6C.png</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>WE tv</title>
+  <tmdb>network/shows/448</tmdb>
+  <thumbnail>https://i.imgur.com/ndFX8me.png</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>WGN America</title>
+  <tmdb>network/shows/202</tmdb>
+  <thumbnail>https://i.imgur.com/JsbqAxl.png</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>WWE Network</title>
+  <tmdb>network/shows/1025</tmdb>
+  <thumbnail>https://i.imgur.com/uP63Z6L.png</thumbnail>
+  <fantart></fantart>
+</dir>
 
 <dir>
   <title></title>

@@ -1,22 +1,22 @@
 <xml>
   <dir>
-    <title></title>
-    <link>file://formats/main.xml</link>
+    <title>Movies</title>
+    <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/movies.xml</link>
   </dir>
 
   <dir>
-    <title>Shared Lists</title>
-    <link>file://shared lists/main.xml</link>
+    <title>TV Shows</title>
+    <link>https://raw.githubusercontent.com/theninja123/ninja/master/tv/tv.xml</link>
   </dir>
   
   <dir>    
-    <title>Formats</title>    
-    <link>file://formats/main.xml</link>  
+    <title>Kids</title>    
+    <link>https://raw.githubusercontent.com/theninja123/ninja/master/kids/kids.xml</link>  
   </dir>
   
   <dir>    
-    <title>Shared Lists</title>   
-    <link>file://shared lists/main.xml</link> 
+    <title>Documentaries</title>   
+    <link>https://raw.githubusercontent.com/theninja123/ninja/master/documentaries/Documentaries.xml</link> 
   </dir>
   
 </xml>

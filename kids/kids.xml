@@ -17,13 +17,13 @@
 </dir>
  
 <dir>
-<title>Studio Ghibli</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/studio-ghibli-movies/items</trakt>
+<title>Box Sets</title>
+<trakt>https://raw.githubusercontent.com/theninja123/ninja/master/kids/kids_boxset.xml</trakt>
 <thumbnail></thumbnail>
 </dir>
  
 <dir>
-<title>Roald Dahl Movies</title>
+<title>Disney</title>
 <trakt>https://api.trakt.tv/users/shanstark71/lists/roald-dahl-movies/items</trakt>
 <thumbnail></thumbnail>
 </dir>

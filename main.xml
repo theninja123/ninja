@@ -12,13 +12,11 @@
   <dir>    
     <title>Kids</title>    
     <link>https://raw.githubusercontent.com/theninja123/ninja/master/kids/kids.xml</link> 
-    <thumbnail>icons/ninja10.png</thumbnail>
   </dir>
   
   <dir>    
     <title>Documentaries</title>   
     <link>https://raw.githubusercontent.com/theninja123/ninja/master/documentaries/Documentaries.xml</link> 
-    <thumbnail>icons/ninja11.png</thumbnail>
   </dir>
   
 </xml>

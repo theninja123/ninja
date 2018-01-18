@@ -24,6 +24,51 @@
  
 <dir>
 <title>Disney</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/roald-dahl-movies/items</trakt>
+<trakt>https://api.trakt.tv/users/theninja123/lists/disney/items</trakt>
 <thumbnail></thumbnail>
+</dir>
+
+<dir> 
+ <title>Pixar Animation</title>  
+ <tmdb>company/movies/3</tmdb>
+</dir>
+
+<dir> 
+ <title>Disney</title>  
+ <tmdb>company/movies/6421</tmdb>
+</dir>
+
+<dir>  
+ <title>Walt Disney Productions</title>
+ <tmdb>company/movies/3166</tmdb>
+</dir>
+
+<dir> 
+ <title>Walt Disney Production</title> 
+ <tmdb>company/movies/6470</tmdb>
+</dir>
+
+<dir>
+ <title>Walt Disney Animation Studios</title> 
+ <tmdb>company/movies/6125</tmdb>
+</dir>
+
+<dir>
+ <title>DreamWorks</title>  
+ <tmdb>company/movies/7</tmdb>
+ </dir>
+
+<dir> 
+ <title>DreamWorks SKG</title>  
+ <tmdb>company/movies/27</tmdb>
+</dir>
+
+<dir>  
+ <title>DreamWorks Animation</title>
+ <tmdb>company/movies/521</tmdb>
+</dir>
+
+<dir> 
+ <title>DreamWorks Pictures</title>  
+ <tmdb>company/movies/7293</tmdb>
 </dir>

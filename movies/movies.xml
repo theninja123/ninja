@@ -1,3 +1,12 @@
+<dir>
+  <title>Actors</title>
+  <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/actors-films.xml</link>
+</dir>
+
+<dir>
+  <title>Actress</title>
+  <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/actress-films.xml</link>
+</dir>
 
 <dir>
   <title>Boxsets</title>
@@ -5,9 +14,19 @@
 </dir>
 
 <dir>
-  <title>Trending Movies</title>
-  <trakt>https://api.trakt.tv/movies/trending</trakt>
+  <title>Movie Years</title>
+  <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/movie-years.xml</link>
 </dir>
+
+<dir>
+  <title>Films For The Women</title> 
+  <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/chicks.xml</link>
+</dir> 
+
+<dir> 
+  <title>Collections</title>
+  <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/collections.xml</link>
+</dir> 
 
 <dir>
  <title>Genre</title>
@@ -20,18 +39,13 @@
 </dir> 
 
 <dir>
+  <title>Trending Movies</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
+
+<dir>
   <title>Popular Movies</title>
   <trakt>https://api.trakt.tv/movies/popular</trakt>
-</dir>
-
-<dir>
-  <title>Movie Watchlist</title>
-  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
-</dir>
-
-<dir>
-  <title>Movie Collection</title>
-  <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
 </dir>
 
 <dir>
@@ -59,12 +73,6 @@
   <tmdb>search</tmdb>
 </dir>
 
-
-<dir>
-  <title>TMDB Action Movies</title>
-  <tmdb>genre/movies/28</tmdb>
-</dir>
-
 <dir>
   <title>TMDB Star Wars Collection</title>
   <tmdb>collection/10</tmdb>
@@ -80,3 +88,7 @@
   <tmdb>collection/115570</tmdb>
 </dir>
 
+<dir>
+  <title>Screeners</title>
+  <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/screeners.xml</link>
+</dir>

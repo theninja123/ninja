@@ -58,11 +58,20 @@
       <tmdb></trakt>
 </dir>
 
-<dir>      <title>[B][COLORwhite]Christian Bale[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Christian-Bale/movies</trakt></dir>
+<dir>     
+      <title>[B][COLORwhite]Christian Bale[/COLOR][/B]</title>    
+      <trakt>https://api.trakt.tv/people/Christian-Bale/movies</trakt>
+</dir>
 
-<dir>      <title>[B][COLORwhite]Sean Bean[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Sean-Bean/movies</trakt></dir>
+<dir> 
+      <title>[B][COLORwhite]Sean Bean[/COLOR][/B]</title>  
+      <trakt>https://api.trakt.tv/people/Sean-Bean/movies</trakt>
+</dir>
 
-<dir>      <title>[B][COLORwhite]Bradley Cooper[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Bradley-Cooper/movies</trakt></dir>
+<dir>
+      <title>[B][COLORwhite]Bradley Cooper[/COLOR][/B]</title>
+      <trakt>https://api.trakt.tv/people/Bradley-Cooper/movies</trakt>
+</dir>
 
 
 <dir>

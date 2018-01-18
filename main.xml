@@ -2,13 +2,11 @@
   <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/movies.xml</link>
-    <thumbnail>icons/ninja6.png</thumbnail>
   </dir>
 
   <dir>
     <title>TV Shows</title>
     <link>https://raw.githubusercontent.com/theninja123/ninja/master/tv/tv.xml</link>
-    <thumbnail>icons/ninja7.png</thumbnail>
   </dir>
   
   <dir>    

@@ -1,12 +1,7 @@
 
 <dir>
   <title>Boxsets</title>
-  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/boxsets.xml</link>
-</dir>
-
-<dir>
-  <title>Kids Boxsets</title>
-  <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/kids_boxset.xml</link>
+  <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/boxsets.xml</link>
 </dir>
 
 <dir>
@@ -16,12 +11,12 @@
 
 <dir>
  <title>Genre</title>
- <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/genre.xml</link>
+ <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/genre.xml</link>
 </dir>  
 
 <dir>
  <title>Horror Films</title>
- <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/horror%20films.xml</link>
+ <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/horror%20films.xml</link>
 </dir> 
 
 <dir>

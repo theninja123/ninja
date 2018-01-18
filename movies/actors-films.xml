@@ -1,36 +1,11 @@
 <dir>
-      <title>[B][COLORwhite]Johnny Depp[/COLOR][/B]</title>
-      <tmdb>person/movies/85</tmdb>
+      <title>[B][COLORwhite]TMDB LISTS[/COLOR][/B]</title>      
+      <tmdb></tmdb>
 </dir>
 
 <dir>
-      <title>[B][COLORwhite]Anthony Hopkins[/COLOR][/B]</title>
-      <tmdb>person/movies/4173</tmdb>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Al Pacino[/COLOR][/B]</title>
-      <tmdb>person/movies/1158</tmdb>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Tom Cruise[/COLOR][/B]</title>
-      <tmdb>person/movies/500</tmdb>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Pierce Brosnan[/COLOR][/B]</title>
+      <title>[B][COLORwhite]Pierce Brosnan[/COLOR][/B]</title>    
       <tmdb>person/movies/517</tmdb>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Harrison Ford[/COLOR][/B]</title>
-      <tmdb>person/movies/3</tmdb>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Kevin Costner[/COLOR][/B]</title>
-      <tmdb>person/movies/1269</tmdb>
 </dir>
 
 <dir>
@@ -39,43 +14,48 @@
 </dir>
 
 <dir>
-      <title>[B][COLORwhite]Morgan Freeman[/COLOR][/B]</title>
+      <title>[B][COLORwhite]Kevin Costner[/COLOR][/B]</title>
+      <tmdb>person/movies/1269</tmdb>
+</dir>
+
+<dir> 
+      <title>[B][COLORwhite]Tom Cruise[/COLOR][/B]</title>     
+      <tmdb>person/movies/500</tmdb>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Johnny Depp[/COLOR][/B]</title> 
+      <tmdb>person/movies/85</tmdb>
+</dir>
+
+<dir> 
+      <title>[B][COLORwhite]Harrison Ford[/COLOR][/B]</title>   
+      <tmdb>person/movies/3</tmdb>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Morgan Freeman[/COLOR][/B]</title>   
       <tmdb>person/movies/192</tmdb>
 </dir>
 
-<dir>
-      <title>[B][COLORwhite]Robin Williams[/COLOR][/B]</title>
+<dir> 
+      <title>[B][COLORwhite]Anthony Hopkins[/COLOR][/B]</title> 
+      <tmdb>person/movies/4173</tmdb>
+</dir>
+
+<dir> 
+      <title>[B][COLORwhite]Al Pacino[/COLOR][/B]</title>   
+      <tmdb>person/movies/1158</tmdb>
+</dir>
+
+<dir> 
+      <title>[B][COLORwhite]Robin Williams[/COLOR][/B]</title>   
       <tmdb>person/movies/2157</tmdb>
 </dir>
 
-<dir>
-      <title>[B][COLORwhite]Clint Eastwood[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/clint-eastwood/movies</trakt>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]John Wayne[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/john-wayne/movies</trakt>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Arnold Schwarzenegger[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/arnold-schwarzenegger/movies</trakt>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Samuel L. Jackson[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/samuel-l-jackson/movies</trakt>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Tom Hanks[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/tom-hanks/movies</trakt>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Sylvester Stallone[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Sylvester-Stallone/movies</trakt>
+<dir> 
+      <title>[B][COLORwhite]TRAKT List[/COLOR][/B]</title>
+      <tmdb></trakt>
 </dir>
 
 <dir>
@@ -84,28 +64,8 @@
 </dir>
 
 <dir>
-      <title>[B][COLORwhite]Liam Neeson[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Liam-Neeson/movies</trakt>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Denzel Washington[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Denzel-Washington/movies</trakt>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Dustin Hoffman[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Dustin-Hoffman/movies</trakt>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Jason Statham[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Jason-Statham/movies</trakt>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Eddie Murphy[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Eddie-Murphy/movies</trakt>
+      <title>[B][COLORwhite]Michael Caine[/COLOR][/B]</title> 
+      <trakt>https://api.trakt.tv/people/Michael-Caine/movies</trakt>
 </dir>
 
 <dir>
@@ -113,45 +73,64 @@
       <trakt>https://api.trakt.tv/people/Nicolas-Cage/movies</trakt>
 </dir>
 
-<dir>
-      <title>[B][COLORwhite]Robert De Niro[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Robert-De-Niro/movies</trakt>
+<dir> 
+      <title>[B][COLORwhite]Robert Carlyle[/COLOR][/B]</title>  
+      <trakt>https://api.trakt.tv/people/Robert-Carlyle/movies</trakt>
 </dir>
 
-<dir>
-      <title>[B][COLORwhite]Michael Caine[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Michael-Caine/movies</trakt>
-</dir>
+
+<dir>      <title>[B][COLORwhite]Jim Carrey[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Jim-Carrey/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Kevin Costner[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Kevin-Costner/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Matt Damon[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Matt-Damon/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Clint Eastwood[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/clint-eastwood/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Harrison Ford[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Harrison-Ford/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Tom Hanks[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/tom-hanks/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Dustin Hoffman[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Dustin-Hoffman/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Samuel L. Jackson[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/samuel-l-jackson/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Eddie Murphy[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Eddie-Murphy/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Liam Neeson[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Liam-Neeson/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Robert De Niro[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Robert-De-Niro/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Anthony Quinn[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Anthony-Quinn/movies</trakt></dir>
+<dir>      <title>[B][COLORwhite]Mickey Rourke[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Mickey-Rourke/movies</trakt></dir>
+
+
+<dir>      <title>[B][COLORwhite]Kurt Russell[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Kurt-Russell/movies</trakt></dir>
+
 
 <dir>
-      <title>[B][COLORwhite]Harrison Ford[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Harrison-Ford/movies</trakt>
+      <title>[B][COLORwhite]Sylvester Stallone[/COLOR][/B]</title>
+      <trakt>https://api.trakt.tv/people/Sylvester-Stallone/movies</trakt>
 </dir>
 
-<dir>
-      <title>[B][COLORwhite]Kevin Costner[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Kevin-Costner/movies</trakt>
-</dir>
+<dir>      <title>[B][COLORwhite]Jason Statham[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Jason-Statham/movies</trakt></dir>
+
+<dir>      <title>[B][COLORwhite]Arnold Schwarzenegger[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/arnold-schwarzenegger/movies</trakt></dir>
+
 
 <dir>
-      <title>[B][COLORwhite]Kurt Russell[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Kurt-Russell/movies</trakt>
+      <title>[B][COLORwhite]Denzel Washington[/COLOR][/B]</title>
+      <trakt>https://api.trakt.tv/people/Denzel-Washington/movies</trakt>
 </dir>
 
-<dir>
-      <title>[B][COLORwhite]Anthony Quinn[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Anthony-Quinn/movies</trakt>
-</dir>
 
-<dir>
-      <title>[B][COLORwhite]Mel Gibson[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Mel-Gibson/movies</trakt>
-</dir>
 
-<dir>
-      <title>[B][COLORwhite]Mickey Rourke[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Mickey-Rourke/movies</trakt>
-</dir>
+
+
+
+
+
+
 
 <dir>
       <title>[B][COLORwhite]Joe Pesci[/COLOR][/B]</title>
@@ -168,10 +147,6 @@
       <trakt>https://api.trakt.tv/people/Tommy-Lee-Jones/movies</trakt>
 </dir>
 
-<dir>
-      <title>[B][COLORwhite]Robert Carlyle[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Robert-Carlyle/movies</trakt>
-</dir>
 
 <dir>
       <title>[B][COLORwhite]Sean Bean[/COLOR][/B]</title>
@@ -218,25 +193,16 @@
       <trakt>https://api.trakt.tv/people/Ben-Stiller/movies</trakt>
 </dir>
 
-<dir>
-      <title>[B][COLORwhite]Jim Carrey[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Jim-Carrey/movies</trakt>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Matt Damon[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Matt-Damon/movies</trakt>
-</dir>
-
-<dir>
-      <title>[B][COLORwhite]Kevin Spacey[/COLOR][/B]</title>
-      <trakt>https://api.trakt.tv/people/Kevin-Spacey/movies</trakt>
-</dir>
 
 <dir>
       <title>[B][COLORwhite]Ryan Reynolds[/COLOR][/B]</title>
       <trakt>https://api.trakt.tv/people/Ryan-Reynolds/movies</trakt>
 </dir>
+
+<dir>      <title>[B][COLORwhite]Kevin Spacey[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/Kevin-Spacey/movies</trakt></dir>
+
+
+<dir>      <title>[B][COLORwhite]John Wayne[/COLOR][/B]</title>      <trakt>https://api.trakt.tv/people/john-wayne/movies</trakt></dir>
 
 <dir>
       <title>[B][COLORwhite]Owen Wilson[/COLOR][/B]</title>

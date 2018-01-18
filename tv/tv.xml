@@ -1,4 +1,9 @@
 
+<dir>
+      <title>Network Channels</title> 
+      <Link>https://raw.githubusercontent.com/theninja123/ninja/master/tv/networks.xml</link>
+</dir>
+
 <dir> 
       <title>Action TV Shows</title>  
       <trakt>https://api.trakt.tv/users/coldkeys/lists/action-tv/items/</trakt>
@@ -55,16 +60,6 @@
 </dir>
 
 <dir>
-      <title>TV Collection</title>
-      <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
-</dir>
-
-<dir>
-      <title>Damo Shows</title>
-      <trakt>https://api.trakt.tv/users/tilliferret/lists/shows-for-damo/items/</trakt>
-</dir>
-
-<dir>
   <title>Trending Shows</title>
   <trakt>https://api.trakt.tv/shows/trending</trakt>
 </dir>
@@ -81,12 +76,12 @@
 
 <dir>
  <title>Genre</title>
- <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/genretv.xml</link>
+ <link>https://raw.githubusercontent.com/theninja123/ninja/master/tv/genretv.xml</link>
 </dir>
 
 <dir>
  <title>UK Sitcoms</title>
- <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/UK%20Sitcom.xml</link>
+ <link>https://raw.githubusercontent.com/theninja123/ninja/master/tv/UK-Sitcom.xml</link>
 </dir>
 
 <dir>

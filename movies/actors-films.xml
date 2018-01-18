@@ -1,5 +1,5 @@
 <dir>
-      <title>[B][COLORwhite]TMDB LISTS[/COLOR][/B]</title>      
+      <title>[B][COLORred]TMDB LISTS[/COLOR][/B]</title>      
       <tmdb></tmdb>
 </dir>
 
@@ -54,7 +54,7 @@
 </dir>
 
 <dir> 
-      <title>[B][COLORwhite]TRAKT List[/COLOR][/B]</title>
+      <title>[B][COLORred]TRAKT List[/COLOR][/B]</title>
       <tmdb></trakt>
 </dir>
 

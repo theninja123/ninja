@@ -1,10 +1,4 @@
 <dir>
-  <title>Super Power Movies</title>
-  <tmdb>keyword/163455-super-powers/movie</tmdb>
-</dir>
-
-
-<dir>
   <title>Action Movies</title>
   <tmdb>genre/movies/28</tmdb>
 </dir>

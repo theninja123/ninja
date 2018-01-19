@@ -1,45 +1,4 @@
 <dir>
-  <title>Assassin</title>
-  <tmdb>keyword/movies/782</tmdb>
-  <thumbnail></thumbnail>
-</dir>
-
-<dir>
-  <title>Based On Comics</title>
-  <tmdb>keyword/movies/9717</tmdb>
-  <thumbnail></thumbnail>
-</dir>
-
-
-
-
-
-
-<dir>
-  <title>Heist</title>
-  <tmdb>keyword/movies/10051</tmdb>
-  <thumbnail></thumbnail>
-</dir>
-
-<dir>
-  <title>Magic</title>
-  <tmdb>keyword/movies/2343</tmdb>
-  <thumbnail></thumbnail>
-</dir>
-
-<dir>
-  <title>Sorcerer</title>
-  <tmdb>keyword/movies/10821</tmdb>
-  <thumbnail></thumbnail>
-</dir>
-
-<dir>
-  <title>Super Hero</title>
-  <tmdb>keyword/movies/9715</tmdb>
-  <thumbnail></thumbnail>
-</dir>
-
-<dir>
   <title>Aliens</title>
   <trakt>https://api.trakt.tv/users/shanstark71/lists/alien-movies/items</trakt>
   <thumbnail></thumbnail>

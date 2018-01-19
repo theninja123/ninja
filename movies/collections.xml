@@ -38,6 +38,12 @@
 </dir>
  
 <dir>
+  <title>Lego Movies</title>
+  <tmdb>list/45552</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
   <title>Martial Arts</title>
   <trakt>https://api.trakt.tv/users/shanstark71/lists/martial-arts/items</trakt>
   <thumbnail></thumbnail>

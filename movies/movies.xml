@@ -29,6 +29,12 @@
 </dir> 
 
 <dir>
+  <title>TMDB Keyword</title>
+  <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/Tmdb-keyword-lists.xml</link>
+</dir>
+
+
+<dir>
  <title>Genre</title>
  <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/genre.xml</link>
 </dir>  

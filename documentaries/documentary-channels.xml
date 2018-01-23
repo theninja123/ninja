@@ -1,28 +1,44 @@
 <dir>
+  <title>Animal Planet</title> 
+  <trakt>https://api.trakt.tv/users/theninja123/lists/animal-planets-documentarys/items/</trakt> 
+</dir>  
+
+<dir>
   <title>BBC Documentaries</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/bbc-documentaries/items/</trakt>
+  <trakt>https://api.trakt.tv/users/theninja123/lists/bbc-documentaries/items/</trakt>
  </dir>
  
- <dir>
-  <title>ITV</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/itv-documentaries/items/</trakt>
- </dir> 
- 
- <dir>
-  <title>Channel 4 Documentaries</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/channel-four-documentaires/items/</trakt>
- </dir>
- 
- <dir>
-  <title>Channel 5 Documentaries</title>
-  <trakt>https://api.trakt.tv/users/tilliferret/lists/channel-5-documentaries/items/</trakt>
- </dir>
+<dir>
+  <title>Biography Channel</title>  
+  <trakt>https://api.trakt.tv/users/theninja123/lists/biography-channel/items/</trakt> 
+</dir> 
+>
  
  <dir>
   <title>Dicovery</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/discovery-channel/items/</trakt>
  </dir> 
  
+<dir> 
+  <title>Discovery Channel Science</title>  
+  <trakt>https://api.trakt.tv/users/theninja123/lists/discovery-channel-science/items/</trakt>
+</dir> 
+
+<dir> 
+  <title>Discovery Understanding Channel</title> 
+  <trakt>https://api.trakt.tv/users/theninja123/lists/discovery-understanding-channel/items/</trakt> 
+</dir> 
+
+<dir>
+  <title>Eden</title>
+  <trakt>https://api.trakt.tv/users/theninja123/lists/eden-documentarys/items/</trakt> 
+</dir> 
+
+<dir> 
+  <title>Frontline</title>
+  <trakt>https://api.trakt.tv/users/theninja123/lists/front-line-documentarys/items/</trakt> 
+</dir> 
+
  <dir>
   <title>HBO Documentaries</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/hbo-documentaries/items/</trakt>
@@ -33,11 +49,21 @@
   <trakt>https://api.trakt.tv/users/tilliferret/lists/history-channel/items/</trakt>
  </dir>
   
+<dir>
+  <title>History Specials Documentarys</title> 
+  <trakt>https://api.trakt.tv/users/tilliferret/lists/history-specials-documentarys/items/</trakt> 
+</dir>
+
  <dir>
   <title>Investigation Channel</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/investigation-docs/items/</trakt>
  </dir>
-  
+ 
+<dir>
+  <title>ITV</title>
+  <trakt>https://api.trakt.tv/users/theninja123/lists/itv-documentaries/items/</trakt> 
+</dir> 
+
  <dir>
   <title>National Geo</title>
   <trakt>https://api.trakt.tv/users/tilliferret/lists/national-geo-documentaries/items/</trakt>

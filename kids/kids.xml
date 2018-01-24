@@ -1,12 +1,12 @@
 <dir>
-<title>Kids Animated</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/animation-movies/items</trakt>
+<title>Animated Movies For The Kids</title>
+<trakt>https://api.trakt.tv/users/theninja123/lists/animated-movies-kids/items</trakt>
 <thumbnail></thumbnail>
 </dir>
  
 <dir>
-<title>Kids Live Action</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-live-action/items</trakt>
+<title>Kids Action</title>
+<trakt>https://api.trakt.tv/users/theninja123/lists/kids-action-movies/items</trakt>
 <thumbnail></thumbnail>
 </dir>
  

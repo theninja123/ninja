@@ -22,13 +22,13 @@
 </xml>
 
 <plugin>
-<name>30701</name>
+<name>Settings</name>
 <link>plugin://plugin.video.ninja/?action=openSettings</link>
 <thumbnail></thumbnail>
 </plugin>
  
 <plugin>
-<name>30702</name>
+<name>Search</name>
 <link>plugin://plugin.video.ninja/?action=search</link>
 <thumbnail></thumbnail>
 </plugin>

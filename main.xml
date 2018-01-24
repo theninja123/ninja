@@ -20,3 +20,21 @@
   </dir>
   
 </xml>
+
+<plugin>
+<name>30701</name>
+<link>plugin://plugin.video.ninja/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
+ 
+<plugin>
+<name>30702</name>
+<link>plugin://plugin.video.ninja/?action=search</link>
+<thumbnail></thumbnail>
+</plugin>
+ 
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.ninja/?action=developer</link>
+<thumbnail></thumbnail>
+</plugin>

@@ -25,16 +25,16 @@
   
 </xml>
 
-<plugin>
-<name>Settings</name>
-<link>plugin://plugin.video.ninja/?action=openSettings</link>
-<thumbnail>https://raw.githubusercontent.com/theninja123/ninja/master/icons/ninja1.png</thumbnail>
-</plugin>
+   <plugin>
+     <name>Settings</name>
+     <link>plugin://plugin.video.ninja/?action=openSettings</link>
+     <thumbnail>https://raw.githubusercontent.com/theninja123/ninja/master/icons/ninja1.png</thumbnail>
+    </plugin>
  
-<plugin>
-<name>Search</name>
-<link>plugin://plugin.video.ninja/?action=search</link>
-<thumbnail></thumbnail>
+    <plugin>
+      <name>Search</name>
+      <link>plugin://plugin.video.ninja/?action=search</link>
+      <thumbnail></thumbnail>
 </plugin>
  
 <plugin>

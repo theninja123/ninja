@@ -2,21 +2,25 @@
   <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/movies.xml</link>
+    <thumbnail>icons/ninja2</thumbnail>
   </dir>
 
   <dir>
     <title>TV Shows</title>
     <link>https://raw.githubusercontent.com/theninja123/ninja/master/tv/tv.xml</link>
+    <thumbnail></thumbnail>
   </dir>
   
   <dir>    
     <title>Kids</title>    
     <link>https://raw.githubusercontent.com/theninja123/ninja/master/kids/kids.xml</link> 
+    <thumbnail></thumbnail>
   </dir>
   
   <dir>    
     <title>Documentaries</title>   
     <link>https://raw.githubusercontent.com/theninja123/ninja/master/documentaries/documentary.xml</link> 
+    <thumbnail></thumbnail>
   </dir>
   
 </xml>

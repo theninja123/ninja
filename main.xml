@@ -2,7 +2,7 @@
   <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/theninja123/ninja/master/movies/movies.xml</link>
-    <thumbnail>icons/ninja2</thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/theninja123/ninja/master/icons/ninja%202.png</thumbnail>
   </dir>
 
   <dir>

@@ -29,6 +29,11 @@
 		<imdburl>charttv/toptv</imdburl>
 	</dir>
 
+	<dir>
+		<title>Chart Box Office</title>
+		<imdburl>charttv/boxoffice</imdburl>
+	</dir>
+
 	###Genres
 	<dir>
 		<title>IMDB Action TV Shows</title>
